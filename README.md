@@ -1,7 +1,7 @@
 # cabrita-notebooks
 Exemplos de como executar o Cabrita-3B
 
-| Colab | Modelo | RAM | Quant 
+| Colab | Modelo | Tamanho | Quantização 
 | --- | --- | --- | --- |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/cabrita-notebooks/blob/main/Open_Cabrita_llamacpp_4_0.ipynb) | [lucianosb/open-cabrita3b-GGUF](https://huggingface.co/lucianosb/open-cabrita3b-GGUF) | 2.08 GB | 4.0 |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/cabrita-notebooks/blob/main/Open_Cabrita_llamacpp_4_1.ipynb) | [lucianosb/open-cabrita3b-GGUF](https://huggingface.co/lucianosb/open-cabrita3b-GGUF) | 2.30 GB | 4.1 |
